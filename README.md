@@ -1,4 +1,4 @@
-Rice Identification
+Rice Identification Model
 The identification of paddy rice is essential for understanding and estimating the status of food security at both regional and national levels.
 This model has been developed to effectively identify the rice and non-rice areas within paddy fields in the Pangasinan region. It utilizes composite imagery with a spatial resolution of 10 meters derived from Sentinel-1 and Sentinel-2 satellite data.
 The composite image and the ground point samples were processed in GEE and exported as an asset.
